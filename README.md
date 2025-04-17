@@ -56,7 +56,7 @@ This project is part of the **42 School curriculum** and adheres to strict codin
 
 ## Installation
 ```sh
-git clone https://github.com/yourusername/minitalk.git
+git clone https://github.com/MistaaOlivaaa/minitalk.git
 cd minitalk
 make        # Compiles both server and client
 make bonus  # Compiles the bonus version (if applicable)
